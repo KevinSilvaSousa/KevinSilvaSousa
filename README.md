@@ -1,12 +1,14 @@
 
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-
+<body>
+    <header>
         <h1 class="name">KEVIN SILVA SOUSA</h1>
         <h2 class="city">UBERLANDIA | MG</h2>
         <h2 class="age">18 years</h2>
         <a href="https://www.linkedin.com/in/kevin-sousa-0b28712a9/?skipRedirect=true" target="_blank"><img src="linkedin.png" alt="Linkedin" ></a>
         <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Kevin;Estudante+de+Programação;Futuro+Dev+Full+Stack">
+    </header>
 
 </body>
 </html>
