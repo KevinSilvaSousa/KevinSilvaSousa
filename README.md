@@ -1,83 +1,13 @@
-<div align="center">
-  <img height="200" src=""  />
-</div>
+## 👋 Hello World! I'm Kevin Silva Sousa
 
-###
+💻 Programming student focused on Backend Development  
+🐍 Currently studying Python  
+🎓 Pursuing a degree in Software Analysis and Development  
+🚀 Passionate about technology and problem solving  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinSilvaSousa/KevinSilvaSousa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinSilvaSousa/KevinSilvaSousa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevinSilvaSousa/KevinSilvaSousa/output/pacman-contribution-graph.svg">
-</picture>
-        <a href="https://www.linkedin.com/in/kevin-sousa-0b28712a9/?skipRedirect=true" target="_blank"><img src="linkedin.png" alt="Linkedin" ></a>
-    </header>
-</body>
-</html>
 
-<div style="font-family: 'Segoe UI', sans-serif; text-align: center; background: linear-gradient(135deg, #0f172a, #1e293b); padding: 30px; border-radius: 15px; color: white;">
+![GitHub Streak](https://streak-stats.demolab.com?user=KevinSilvaSousa&theme=radical)
 
-  <h1 style="font-size: 40px;">👨‍💻 Hello World! Welcome to my profile.</h1>
+## 🌐 Connect with me
 
-  <p style="font-size: 18px; color: #94a3b8;">
-    Explorando o mundo da programação 🚀
-  </p>
-
-  <br>
-
-  <div style="background: #111827; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-    <h2 style="color: #38bdf8;">📌 Sobre mim</h2>
-
-```
-<p style="font-size: 17px;">
-  🎂 <strong>18 anos</strong><br>
-  📍 <strong>Uberlândia - MG, Brasil</strong><br>
-  📚 <strong>Estudante</strong><br>
-  💻 <strong>Nível: Iniciante</strong>
-</p>
-```
-
-  </div>
-
-  <br>
-
-  <div style="background: #111827; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-    <h2 style="color: #22c55e;">🚀 Minha Jornada</h2>
-
-```
-<p>
-  Estou dando meus primeiros passos na programação, aprendendo lógica,
-  explorando linguagens e construindo meus primeiros projetos.
-  <br><br>
-  Cada linha de código é um passo mais perto do meu objetivo 💡
-</p>
-```
-
-  </div>
-
-  <br>
-
-  <div style="background: #111827; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-    <h2 style="color: #facc15;">🎯 Objetivo</h2>
-
-```
-<p>
-  Me tornar um desenvolvedor profissional, criar projetos incríveis
-  e conquistar minha independência através da tecnologia.
-</p>
-```
-
-  </div>
-
-  <br>
-
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" height="150">
-  </div>
-
-  <br>
-
-  <p style="color: #64748b; font-size: 14px;">
-    ⚡ "Começando pequeno, pensando grande."
-  </p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sousa-0b28712a9/)
