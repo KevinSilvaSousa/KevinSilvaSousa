@@ -1,4 +1,24 @@
 <!-- README Perfil Estiloso -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    
+</head>
+<body>
+    <header>
+        <h1 class="name">KEVIN SILVA SOUSA</h1>
+        <h2 class="city">UBERLANDIA | MG</h2>
+        <h2 class="age">18 years</h2>
+    </header>
+    <nav>
+        <a href="https://www.linkedin.com/in/kevin-sousa-0b28712a9/?skipRedirect=true" target="_blank"><img src="linkedin.png" alt="Linkedin" ></a>
+    </nav>
+</body>
+</html>
 
 <div style="font-family: 'Segoe UI', sans-serif; text-align: center; background: linear-gradient(135deg, #0f172a, #1e293b); padding: 30px; border-radius: 15px; color: white;">
 
