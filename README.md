@@ -1,8 +1,8 @@
 ## 👋 Hello World! I'm Kevin Silva Sousa
 
-💻 Programming student focused on Backend Development  
-🐍 Currently studying Python  
-🎓 Pursuing a degree in Software Analysis and Development  
+💻 
+🐍 
+🎓 
 🚀 Passionate about technology and problem solving  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KevinSilvaSousa&theme=radical)
